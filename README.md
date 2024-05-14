@@ -1,1 +1,1 @@
-# Python_PochaccoのPython授業ファイル
+# Python_PochaccoのPython研修ファイル

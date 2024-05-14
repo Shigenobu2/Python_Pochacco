@@ -1,1 +1,1 @@
-# Python_Pochacco
+# Python_PochaccoのPython授業ファイル

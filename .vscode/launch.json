@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": "'One and only one' 2"
+            "args": "20220512 1 2"
         }
     ]
 }

@@ -6,4 +6,4 @@ num = int(args[2])
 
 words = text.split()
 
-print(words[num-1], end="")
+print(words[num-1])

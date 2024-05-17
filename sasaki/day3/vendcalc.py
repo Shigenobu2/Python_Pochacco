@@ -120,16 +120,3 @@ while True:
     except KeyError:     # 例外処理　入力された商品名がリストにない場合
         print("リストにある商品名を入力してください")
         continue
-
-            
-
-        
-
-
-
-
-
-
-# 購入後の残金で最低価格の飲み物が買えるかどうか
-if input_money - drinks[input_name] < min_drink:    # 購入後の残金が最低金額の飲み物の価格を下回っていた場合
-    change(input_money)

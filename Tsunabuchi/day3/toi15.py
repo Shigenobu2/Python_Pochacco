@@ -12,3 +12,4 @@ try:
    print(str(round(between,2)),end="")
 except:
    print("のぞみの停車駅を引数に設定してください")
+   

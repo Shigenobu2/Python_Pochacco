@@ -1,6 +1,5 @@
 # 日付を扱うモジュールのインポート
 import datetime
-
 # 引数渡しのモジュール
 import sys
 args = sys.argv
